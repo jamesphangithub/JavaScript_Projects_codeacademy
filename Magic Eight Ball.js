@@ -1,3 +1,6 @@
+//James Phan
+//Magic Eight Ball simulator
+
 let userName = 'James';
 
 //greets user
